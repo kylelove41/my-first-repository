@@ -1,0 +1,2 @@
+#Ingnore all SQLite databased
+db/*.sqlite3
